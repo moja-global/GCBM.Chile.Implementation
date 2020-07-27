@@ -68,7 +68,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 The following people are Maintainers Reviewers Ambassadors or Coaches  
 
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>  
+<table>
+  <tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr>
+    <tr>
+    <td align="center"><a href="http://www.juliancabezas.com"><img src="https://avatars1.githubusercontent.com/u/17553010?v=4" width="100px;" alt=""/><br /><sub><b>Julián Cabezas</b></sub></a><br /><a href="https://github.com/moja-global/GCBM.Chile.Data_Preprocessing/commits?author=juliancabezas" title="Code">💻</a></td>
+  </tr>
+</table>  
 
 **Maintainers** review and accept proposed changes  
 **Reviewers** check proposed changes before they go to the Maintainers  
